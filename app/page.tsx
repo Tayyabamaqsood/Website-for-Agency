@@ -150,7 +150,7 @@ export default function HomePage() {
             Automate Your Business. Focus on Growth.
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-slate-300 md:text-lg">
-            We help women-owned businesses eliminate repetitive tasks so they can focus on growth, creativity, and scaling their brand.
+            We help businesses eliminate repetitive tasks so they can focus on growth, creativity, and scaling their brand.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <a
@@ -167,7 +167,7 @@ export default function HomePage() {
             </a>
           </div>
           <p className="mt-4 text-xs tracking-wide text-fuchsia-300/80">
-            Supporting women-led businesses with smarter systems
+            Supporting businesses with smarter systems
           </p>
           <div className="mx-auto mt-14 grid w-full max-w-4xl gap-4 rounded-2xl border border-white/10 bg-white/[0.03] p-4 backdrop-blur md:grid-cols-3 md:p-5">
             {[
